@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm Peyton 👋
 
-<!--
-**PeytonPlayz595/PeytonPlayz595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is my Discord (peytonplayz585):
 
-Here are some ideas to get you started:
+![Discord](https://discord-readme-badge.vercel.app/api?id=852205147458109492)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things about me!
+- I am the owner of Shadow Client and Minecraft Classic 0.30 WebGL Port!
+- I am a front/backend dev in Java, PHP, C++, JS, and MySQL!
+- I am looking to contribute to projects involing Minecraft/Eaglercraft/Websocket Proxies!
+- I create projects such as porting classic, indev, infdev, alpha, and beta versions of Minecraft to the browser!
+- I like to archive Eaglercraft/Minecraft clients
+- I am 13 y/o
+
+### Check out some of my project!
+- [Minecraft Classic 0.30 WebGL port](https://github.com/PeytonPlayz595/0.30-WebGL/)
+- [Minecraft Indev WebGL port](https://github.com/PeytonPlayz595/Minecraft-Indev-WebGL) (Work in progress!)
+- [Ayuncraft (Eaglercraft 1.5.2 Archive)](https://github.com/PeytonPlayz595/ayuncraft) (Forked from my old acc, I forgot the password)
+- [Classic.minecraft.net web client](https://github.com/PeytonPlayz595/Minecraft-Classic-Reversed) (Not yet started!)
