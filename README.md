@@ -14,6 +14,6 @@ Here is my Discord (peytonplayz585):
 
 ### Check out some of my projects!
 - [Minecraft Classic 0.30 WebGL port](https://github.com/PeytonPlayz595/0.30-WebGL/)
-- [Minecraft Indev WebGL port](https://github.com/PeytonPlayz595/Minecraft-Indev-WebGL) (Work in progress!)
+- [Minecraft Indev WebGL port](https://github.com/PeytonPlayz595/Minecraft-Indev-WebGL)
 - [Ayuncraft (Eaglercraft 1.5.2 Archive)](https://github.com/PeytonPlayz595/ayuncraft) (Forked from my old acc, I forgot the password)
 - [Classic.minecraft.net web client](https://github.com/PeytonPlayz595/Minecraft-Classic-Reversed) (Not yet started!)
