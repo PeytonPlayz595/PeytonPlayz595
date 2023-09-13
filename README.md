@@ -9,6 +9,7 @@ Here is my Discord (theonewhoknocks_1):
 - I can program in Java, JavaScript, TypeScript, C++, Node.JS, HTML, CSS, and more!
 - I program Discord bots for fun, DM me and I'll make a custom bot for you ;)
 
-### Check out some of my projects!
+### Here are some of my biggest projects!
 - [Minecraft Classic 0.30 WebGL port](https://github.com/PeytonPlayz595/0.30-WebGL/)
 - [Minecraft Indev WebGL port](https://github.com/PeytonPlayz595/Minecraft-Indev-WebGL)
+- [Shadow Client](https://dsc.gg/shadow-eagler/) (3.0 is releasing soon, join the Discord!)
