@@ -7,7 +7,6 @@ Here is my Discord (theonewhoknocks_1):
 ### Things about me!
 - I'm 14 years old, and the TRUE owner of [Shadow Client](https://dsc.gg/shadow-eagler/), an EaglerX 1.8.8 Optifine client!
 - I can program in Java, JavaScript, TypeScript, C++, Node.JS, HTML, CSS, and more!
-- I program Discord bots for fun, DM me and I'll make a custom bot for you ;)
 
 ### Here are some of my biggest projects!
 - [Minecraft Classic 0.30 WebGL port](https://github.com/PeytonPlayz595/0.30-WebGL/)
