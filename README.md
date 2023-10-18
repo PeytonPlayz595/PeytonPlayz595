@@ -1,6 +1,6 @@
 ### Hi I'm Peyton 👋
 
-Here is my Discord (theonewhoknocks_1):
+Here is my Discord (Currently banned, here is my new acc jessepinkman8105):
 
 ![Discord](https://discord-readme-badge.vercel.app/api?id=852205147458109492)
 
