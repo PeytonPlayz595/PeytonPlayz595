@@ -1,6 +1,6 @@
 ### Hi I'm Peyton 👋
 
-Here is my Discord:
+Here is my Discord (peytonplayz585):
 
 ![Discord](https://discord-readme-badge.vercel.app/api?id=852205147458109492)
 
