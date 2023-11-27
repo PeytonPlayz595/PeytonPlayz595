@@ -5,10 +5,13 @@ Here is my Discord:
 ![Discord](https://discord-readme-badge.vercel.app/api?id=852205147458109492)
 
 ### Things about me!
-- I'm 14 years old, and the TRUE owner of [Shadow Client](https://dsc.gg/shadow-eagler/), an EaglerX 1.8.8 Optifine client!
+- I'm 14 years old.
+- I port Minecraft versions to the browser using WebGL & TeaVM
+- Owner of Shadow Client
 - I can program in Java, JavaScript (Node.JS), TypeScript, C++, HTML, CSS, and more!
 
-### Here are some of my biggest projects!
+### Check out some of my projects!
 - [Minecraft Classic 0.30 WebGL port](https://github.com/PeytonPlayz595/0.30-WebGL/)
 - [Minecraft Indev WebGL port](https://github.com/PeytonPlayz595/Minecraft-Indev-WebGL)
-- [Shadow Client](https://dsc.gg/shadow-eagler/) (3.0 is releasing soon, join the Discord!)
+- [Minecraft 1.0 WebGL Port (Coming Soon)](https://github.com/PeytonPlayz595/ClassicCraft-1.0)
+- [OpenGL Emulator for TeaVM](https://github.com/PeytonPlayz595/TeaVM-WebGL)
