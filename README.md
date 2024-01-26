@@ -13,5 +13,4 @@ Here is my Discord (peytonplayz585):
 ### Check out some of my projects!
 - [Minecraft Classic 0.30 WebGL port](https://github.com/PeytonPlayz595/0.30-WebGL/)
 - [Minecraft Indev WebGL port](https://github.com/PeytonPlayz595/Minecraft-Indev-WebGL)
-- [Minecraft 1.0 WebGL Port (Coming Soon)](https://github.com/PeytonPlayz595/ClassicCraft-1.0)
-- [OpenGL Emulator for TeaVM](https://github.com/PeytonPlayz595/TeaVM-WebGL)
+- [Shadow Client (Now Open Source)](https://github.com/PeytonPlayz595/eagler-optifine/)
