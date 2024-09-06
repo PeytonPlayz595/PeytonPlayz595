@@ -8,10 +8,12 @@ Here is my Discord (peytonplayz585):
 - I'm 14 years old.
 - I port Minecraft versions to the browser
 - Owner of Shadow Client
-- I can program in Java, JavaScript (Node.JS), TypeScript, C++, HTML, CSS, and more!
 
 ### Check out some of my projects!
-- [Minecraft Classic 0.30 Web Port](https://github.com/PeytonPlayz595/0.30-WebGL/)
-- [Minecraft Indev Web Port](https://github.com/PeytonPlayz595/Minecraft-Indev-WebGL)
-- [Minecraft Alpha v1.2.6 Web Port](https://github.com/PeytonPlayz595/Alpha-v1.2.6)
-- [Shadow Client (Now Open Source)](https://github.com/PeytonPlayz595/eagler-optifine/)
+- [Shadow Client (Now Open Source)](https://github.com/PeytonPlayz595/Shadow-4.0/)
+- [Minecraft Beta 1.7.3 web port](https://github.com/PeytonPlayz595/Beta-1.7.3)
+
+
+
+### Join my Discord server for updates about my Minecraft Alpha & Beta projects
+https://discord.gg/4HXnY6tQ
