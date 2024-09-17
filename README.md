@@ -16,4 +16,4 @@ Here is my Discord (peytonplayz585):
 
 
 ### Join my Discord server for updates about my Minecraft Alpha & Beta projects
-https://discord.gg/4HXnY6tQ
+https://discord.gg/xVHCUzTeqC
