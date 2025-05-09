@@ -1,7 +1,5 @@
 ### Hi I'm Peyton 👋
 
-### Currently working on eaglercraft 1.12.2
-
 Here is my Discord (peytonplayz585):
 
 ![Discord](https://discord-readme-badge.vercel.app/api?id=852205147458109492)
@@ -9,7 +7,11 @@ Here is my Discord (peytonplayz585):
 ### Things about me!
 - 15 years old
 - Creator of various base gamemodes on eaglercraft.com
-- Developer for Shadow Client
+- Creator/Developer of Eaglercraft 1.12
 
-### Join my Discord server for updates about my Minecraft ports (updates on 1.12 coming soon)
-https://discord.gg/xVHCUzTeqC
+### Join the Eaglercraft 1.12 Discord
+https://discord.gg/nmKB4KRUMy
+
+### Join the Eaglercraft Beta Discord server 
+This is for updates about my Golden Age Minecraft ports (Alpha, Beta, etc)
+https://discord.gg/cBZYchEKBH
